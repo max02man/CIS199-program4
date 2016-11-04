@@ -1,0 +1,25 @@
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\bin\Debug\program 4.exe.config
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\obj\Debug\program 4.csprojResolveAssemblyReference.cache
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\obj\Debug\program_4.Form1.resources
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\obj\Debug\program_4.Properties.Resources.resources
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\obj\Debug\program 4.csproj.GenerateResource.Cache
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\bin\Debug\program 4.exe
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\bin\Debug\program 4.pdb
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\obj\Debug\program 4.exe
+c:\users\max man\documents\visual studio 2012\Projects\program 4\program 4\obj\Debug\program 4.pdb
+D:\cis199\New folder\program 4\program 4\bin\Debug\program 4.exe.config
+D:\cis199\New folder\program 4\program 4\obj\Debug\program 4.exe
+D:\cis199\New folder\program 4\program 4\obj\Debug\program 4.pdb
+D:\cis199\New folder\program 4\program 4\obj\Debug\program 4.csprojResolveAssemblyReference.cache
+D:\cis199\New folder\program 4\program 4\obj\Debug\program_4.Form1.resources
+D:\cis199\New folder\program 4\program 4\obj\Debug\program_4.Properties.Resources.resources
+D:\cis199\New folder\program 4\program 4\obj\Debug\program 4.csproj.GenerateResource.Cache
+C:\Users\MAX MAN\Desktop\program 4\program 4\bin\Debug\program 4.exe.config
+C:\Users\MAX MAN\Desktop\program 4\program 4\obj\Debug\program 4.exe
+C:\Users\MAX MAN\Desktop\program 4\program 4\bin\Debug\program 4.exe
+C:\Users\MAX MAN\Desktop\program 4\program 4\bin\Debug\program 4.pdb
+C:\Users\MAX MAN\Desktop\program 4\program 4\obj\Debug\program 4.csprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\program 4\program 4\obj\Debug\program_4.Form1.resources
+C:\Users\MAX MAN\Desktop\program 4\program 4\obj\Debug\program_4.Properties.Resources.resources
+C:\Users\MAX MAN\Desktop\program 4\program 4\obj\Debug\program 4.csproj.GenerateResource.Cache
+C:\Users\MAX MAN\Desktop\program 4\program 4\obj\Debug\program 4.pdb
